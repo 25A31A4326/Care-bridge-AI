@@ -1,16 +1,19 @@
-# React + Vite
+# @babel/code-frame
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+> Generate errors that contain a code frame that point to source locations.
 
-Currently, two official plugins are available:
+See our website [@babel/code-frame](https://babeljs.io/docs/babel-code-frame) for more information.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Install
 
-## React Compiler
+Using npm:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+```sh
+npm install --save-dev @babel/code-frame
+```
 
-## Expanding the Oxlint configuration
+or using yarn:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+```sh
+yarn add @babel/code-frame --dev
+```
