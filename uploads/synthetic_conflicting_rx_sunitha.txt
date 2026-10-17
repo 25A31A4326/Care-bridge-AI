@@ -1,0 +1,12 @@
+ORTHO SPECIALTY CARE - POST-OPERATIVE ORDERS
+PATIENT: Smt. Sunitha Reddy | AGE: 64 | SURGERY: Right Knee Arthroscopy
+DATE: 12-Oct-2026
+
+SECTION 1 (Discharge Order):
+1. Tab Amoxicillin-Clavulanate 625mg - 1 tablet twice daily for 5 days after food.
+2. Tab Paracetamol 650mg - 1 tablet thrice daily for 3 days for joint pain.
+
+SECTION 2 (Nurse Handover Sheet - Conflict):
+1. Tab Amoxicillin-Clavulanate 625mg - Discontinue after 3 days if surgical wound is dry and no fever.
+
+CONFLICT DETECTED: Antibiotic treatment duration is stated as 5 days in Section 1 and 3 days in Section 2.
