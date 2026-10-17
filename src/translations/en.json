@@ -1,0 +1,90 @@
+{
+  "appName": "CareBridge AI",
+  "tagline": "Your Medicine, Your Language, Your Care",
+  "greeting": "Hello! How can I help you with your medicines or care today?",
+  "firstVisitPrompt": "Please choose your preferred language to get started:",
+  "nav": {
+    "chat": "Assistant Chat",
+    "medicines": "Daily Medicines",
+    "documents": "Documents & Uploads",
+    "caregiver": "Caregiver Portal",
+    "careplan": "Care Plan & Fridge Sheet",
+    "demoPatients": "Switch Demo Patient"
+  },
+  "composer": {
+    "placeholder": "Ask about medicines, timings, or doctors...",
+    "send": "Send",
+    "listening": "Listening... Speak now",
+    "tapToSpeak": "Tap microphone to speak",
+    "attachMenu": "Attach Medical Document",
+    "uploadPrescription": "Upload Prescription Photo",
+    "uploadMedicineBox": "Upload Medicine Package Photo",
+    "uploadDischarge": "Upload Discharge Summary",
+    "uploadReport": "Upload Medical Report",
+    "uploadPdf": "Upload PDF Document"
+  },
+  "explanation": {
+    "simpleTitle": "Simple Explanation",
+    "sourceTitle": "What the document says",
+    "readAloud": "Read Aloud",
+    "stopReading": "Stop Audio",
+    "readabilityScore": "Readability Score",
+    "verified": "Verified Instruction",
+    "needsVerification": "Needs Doctor Verification",
+    "conflicting": "Conflicting Instructions Flagged",
+    "notMentioned": "Not mentioned in the document",
+    "dose": "Dose",
+    "frequency": "Frequency",
+    "exactTime": "Exact Time",
+    "duration": "Duration",
+    "foodRelation": "Food Guidance",
+    "diet": "Diet Advice",
+    "activity": "Activity Guidelines",
+    "followUp": "Follow-up Appointment",
+    "warningSigns": "Emergency Warning Signs"
+  },
+  "medicines": {
+    "title": "Daily Medicine Management",
+    "subtitle": "Track your verified medication schedule and dose status",
+    "todayChecklist": "Today's Medicine Checklist",
+    "sevenDayCalendar": "7-Day Schedule Calendar",
+    "markTaken": "Mark as Taken",
+    "remindLater": "Remind Later",
+    "markMissed": "Missed Dose",
+    "takenAt": "Taken at",
+    "pending": "Pending",
+    "taken": "Taken",
+    "missed": "Missed",
+    "snoozed": "Snoozed",
+    "reminderSettings": "In-App Alarm & Reminder Settings",
+    "browserNotificationNote": "Note: In-app sound alarms play while the website is open. Browser notifications require active permissions and may not trigger when device is asleep.",
+    "missedDoseWarning": "Safety Advice: Never double up doses to make up for a missed tablet."
+  },
+  "caregiver": {
+    "title": "Family Caregiver Portal",
+    "subtitle": "Empowering trusted family members to monitor elderly care and adherence safely",
+    "authorizedCaregivers": "Authorized Caregivers (Max 2)",
+    "addCaregiver": "Authorize New Caregiver",
+    "caregiverEmail": "Caregiver Email",
+    "relationship": "Relationship (e.g. Son, Daughter)",
+    "revoke": "Revoke Access",
+    "activeStatus": "Active Permission",
+    "patientSummary": "Patient Adherence Summary",
+    "upcomingAppointments": "Upcoming Appointments",
+    "unauthorizedWarning": "Access requires verified authorization from the patient."
+  },
+  "careplan": {
+    "title": "Discharge Summary Care Plan",
+    "fridgeSheet": "Printable Fridge Sheet (A4)",
+    "downloadPdf": "Download PDF",
+    "printSheet": "Print Fridge Sheet",
+    "discrepancies": "Verification Discrepancies & Flagged Items"
+  },
+  "voice": {
+    "speechNotSupported": "Speech recognition is not supported in this browser. Please use text chat.",
+    "micPermissionDenied": "Microphone permission was denied. Please allow microphone access in your browser settings.",
+    "confirmVoiceText": "Review Voice Transcription",
+    "submitToChat": "Send to Chat",
+    "retryVoice": "Record Again"
+  }
+}
